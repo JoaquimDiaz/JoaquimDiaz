@@ -29,9 +29,9 @@
 | **5. Maintenez et documentez un système de stockage sécurisé** | Optimise, secure and document an on‑prem/virtualised data storage stack.                  | Docker, MySQL                |
 | **6. Anticipez les besoins en consommation de bâtiments**      | Build and serve a machine‑learning model to forecast city building energy use.            | Scikit‑learn, BentoML             |
 | **7. Concevez et analysez une base de données NoSQL**          | Model and analyse data at scale with MongoDB, leveraging Python for analytics.            | MongoDB, Python                   |
-| **8. Construisez et testez une infrastructure de données**     | Design, implement and unit‑test a complete data infrastructure pipeline.                  | Airbyte, DBMS, PyTest             |
-| **9. Modélisez une infrastructure dans le cloud**              | Draw and document a scalable, fully managed data architecture in the cloud.               | Terraform, AWS, GCP               |
-| **10. Mettez en place un pipeline d'orchestration des flux**    | Build a production‑ready workflow scheduler for complex dataflows.                        | Kestra, Airflow                   |
+| **8. Construisez et testez une infrastructure de données**     | Design, implement and unit‑test a complete data infrastructure pipeline.                  | Airbyte, AWS, Docker           |
+| **9. Modélisez une infrastructure dans le cloud**              | Draw and document a scalable, fully managed data architecture in the cloud.               | Pyhon, Docker, AWS              |
+| **10. Mettez en place un pipeline d'orchestration des flux**    | Build a production‑ready workflow scheduler for complex dataflows.                        | Kestra, DuckDB               |
 | **11. Concevez et déployez un système RAG**                     | Implement Retrieval‑Augmented Generation with LangChain, Mistral and FAISS.               | LangChain, FAISS, Mistral         |
 | **12. Gérez un projet d'infrastructure**                        | Automate, monitor and harden a live data platform for a fitness app.                      | Prefect, PostgreSQL                |
 | **13. Passez votre système IA du POC au MVP & Portfolio**       | Take the RAG to MVP stage and showcase your skills through a public portfolio.            | MLOps, CI/CD       
