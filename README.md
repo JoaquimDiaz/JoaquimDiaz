@@ -33,6 +33,6 @@
 | **9. Modélisez une infrastructure dans le cloud**              | Draw and document a scalable, fully managed data architecture in the cloud.               | Pyhon, Docker, AWS              |
 | **10. Mettez en place un pipeline d'orchestration des flux**    | Build a production‑ready workflow scheduler for complex dataflows.                        | Kestra, DuckDB               |
 | **11. Concevez et déployez un système RAG**                     | Implement Retrieval‑Augmented Generation with LangChain, Mistral and FAISS.               | LangChain, FAISS, Mistral         |
-| **12. Gérez un projet d'infrastructure**                        | Automate, monitor and harden a live data platform for a fitness app.                      | Prefect, PostgreSQL                |
-| **13. Passez votre système IA du POC au MVP & Portfolio**       | Take the RAG to MVP stage and showcase your skills through a public portfolio.            | MLOps, CI/CD       
+| **12. Gérez un projet d'infrastructure**                        | Automate, monitor and harden a live data platform for a fitness app.                      | Prefect, PostgreSQL, Python                |
+| **13. Passez votre système IA du POC au MVP & Portfolio**       | Take the RAG to MVP stage and showcase your skills through a public portfolio.            | Project Management   
 
