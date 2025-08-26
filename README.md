@@ -2,7 +2,7 @@
 
 📧​diazjoaquim@gmail.com
 
-​🔗​![linkedin](https://www.linkedin.com/in/joaquimdiaz1104)
+​🔗​[linkedin](https://www.linkedin.com/in/joaquimdiaz1104)
 
 ---
 
